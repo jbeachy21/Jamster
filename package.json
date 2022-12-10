@@ -26,7 +26,7 @@
     "dependencies": {
         "axios": "^0.18.0",
         "classnames": "^2.2.6",
-        "express": "^4.16.4",
+        "express": "^4.17.3",
         "if-env": "^1.0.4",
         "mysql2": "^1.6.5",
         "react-sticky-footer": "0.1.0-rc3",
